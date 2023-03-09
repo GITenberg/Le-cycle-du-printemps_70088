@@ -1,0 +1,40 @@
+_repo: Le-cycle-du-printemps_70088
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mirabaud-Thorens, H. (Henriette)
+    alias: Mirabaud-Thorens, Henriette
+    birthdate: 1881
+    deathdate: 1943
+    gutenberg_agent_id: '51973'
+    url: http://www.gutenberg.org/2009/agents/51973
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: https://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2023-02-20'
+identifiers:
+  gutenberg: '70088'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k34129402
+pgterms:marc905: 20221219222708tagore
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bStock, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indic drama -- Translations into French'
+- !lcsh 'Bengali drama -- Translations into French'
+- !lcc 'PK'
+- GITenberg
+title: Le cycle du printemps
+url: http://www.gutenberg.org/ebooks/70088
